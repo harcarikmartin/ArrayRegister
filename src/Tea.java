@@ -38,6 +38,9 @@ public class Tea implements Drinkable {
 			case ROOIBOS:
 				flavourString = "Rooibos";
 				break;
+			case PIGI:
+				flavourString = "Pigi";
+				break;
 			default:
 				flavourString = "Water";
 				break;
